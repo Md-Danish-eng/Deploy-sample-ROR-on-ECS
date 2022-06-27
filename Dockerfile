@@ -17,4 +17,3 @@ RUN bundle install
 
 # Copy the whole app
 COPY . /myapp
-
